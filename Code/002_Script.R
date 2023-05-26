@@ -15,3 +15,5 @@ for(i in 1:p$nrow) {
                                         "#FC4E07"))  
     }
 }
+
+# Eu falei Faraóóóóhh
